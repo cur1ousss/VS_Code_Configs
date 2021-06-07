@@ -3,7 +3,7 @@ VS Code Fonts , Extensions
 
 - https://www.typography.com/blog/introducing-operator >> Operator mono font >> Sample>> https://marketplace.visualstudio.com/items?itemName=jeng.jeng-theme-light
 
-# Recently Uninstalled
+# Recently Uninstalled Extensions
 - Name: Jetty for Java
 Id: summersun.vscode-jetty
 Description: Start and run or debug your war package on Jetty.
