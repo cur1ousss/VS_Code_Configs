@@ -16,6 +16,8 @@ https://code.visualstudio.com/docs/editor/integrated-terminal
 
   <img src="Images/BlankTerminal_PythonInheritEnvScreenshot%20from%202021-06-08%2011-49-15.png"> 
 
+  -  Blank Terminal Windows
+    > https://www.youtube.com/watch?v=RpNi2l982Rw
 
 # Recently Uninstalled Extensions
 - Name: Jetty for Java
