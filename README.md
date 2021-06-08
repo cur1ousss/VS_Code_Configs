@@ -6,8 +6,12 @@ VS Code Fonts , Extensions
 # Problems
 - Blank Terminal Linux
   Due to Inherit Env
-  >> https://code.visualstudio.com/updates/v1_36#_launch-terminals-with-clean-environments
-  >> 
+  > https://code.visualstudio.com/updates/v1_36#_launch-terminals-with-clean-environments
+
+  
+  > https://stackoverflow.com/questions/54092486/visual-studio-code-terminal-blank-screen
+
+  <img src="Images/BlankTerminal_PythonInheritEnvScreenshot%20from%202021-06-08%2011-49-15.png"> 
 
 
 # Recently Uninstalled Extensions
