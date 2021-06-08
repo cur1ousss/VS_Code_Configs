@@ -4,6 +4,9 @@ VS Code Fonts , Extensions
 - https://www.typography.com/blog/introducing-operator >> Operator mono font >> Sample>> https://marketplace.visualstudio.com/items?itemName=jeng.jeng-theme-light
 
 # Problems
+
+https://code.visualstudio.com/docs/editor/integrated-terminal
+
 - Blank Terminal Linux
   Due to Inherit Env
   > https://code.visualstudio.com/updates/v1_36#_launch-terminals-with-clean-environments
