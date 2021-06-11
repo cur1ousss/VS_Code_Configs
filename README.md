@@ -10,6 +10,7 @@ https://code.visualstudio.com/docs/editor/integrated-terminal
 - Blank Terminal Linux
   Due to Inherit Env
   > https://code.visualstudio.com/updates/v1_36#_launch-terminals-with-clean-environments
+  > https://code.visualstudio.com/docs/editor/integrated-terminal
 
   
   > https://stackoverflow.com/questions/54092486/visual-studio-code-terminal-blank-screen
